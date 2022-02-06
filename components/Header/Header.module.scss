@@ -1,0 +1,13 @@
+.root {
+  display: grid;
+  border-bottom: 1px solid #f8f8f8;
+  height: 3rem;
+}
+
+.container {
+  align-items: center;
+  display: flex;
+  justify-content: flex-end;
+  padding: 0 1.5rem;
+  column-gap: 1rem;
+}

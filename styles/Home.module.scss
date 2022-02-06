@@ -1,0 +1,14 @@
+.root {
+  display: grid;
+}
+
+.container {
+  padding: 3rem 0;
+  row-gap: 1rem;
+  display: grid;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}

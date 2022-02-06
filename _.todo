@@ -1,0 +1,9 @@
+npm packages:
+  yarn add @auth0/auth0-react @prisma/client sass
+  yarn add prisma -D
+
+
+  intiailization:
+    yarn prisma init
+    add database config
+      -> using mongodb `https://www.prisma.io/docs/concepts/database-connectors/mongodb`

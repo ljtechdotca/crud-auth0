@@ -1,0 +1,13 @@
+.root {
+  display: grid;
+  padding: 3rem 0;
+}
+
+.container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  row-gap: 1rem;
+  max-width: 20rem;
+  margin: auto;
+}
